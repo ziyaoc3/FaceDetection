@@ -1,0 +1,5 @@
+.Tilt {
+	background-color: #64B7C6;
+	background-image: linear-gradient(180deg, #EA6B9B 0%,  #64B7C6 100%);
+	transform-style: preserve-3d;
+}

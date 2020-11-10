@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 1em;
+	font-family:'Courier Prime','Noto Serif JP', 'Roboto', monospace;
+	background: linear-gradient(90deg, #EE7A63 0%, #54A2A4 100%);  
+}
+
+.particles {
+	position: fixed;
+	left: 0px;
+  	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	z-index: -1
+}

@@ -1,0 +1,9 @@
+.form {
+	width: 700px;
+	background-color:white;
+	background-image:
+	radial-gradient(#E49B75 9px, transparent 10px),
+	repeating-radial-gradient(#E49B75 0, #E49B75 4px, transparent 5px, transparent 20px, #E49B75 21px, #E49B75 25px, transparent 26px, transparent 50px);
+	background-size: 30px 30px, 80px 80px;
+	background-position: 0 0;
+}
